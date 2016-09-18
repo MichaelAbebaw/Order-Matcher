@@ -19,15 +19,7 @@ public class OrderBook {
     private String symbol;
     private TreeMap<Order, Integer> buyPool;
     private TreeMap<Order, Integer> sellPool;
-
-    /**
-     * Holds trade entries for all trade activities in this order book.
-     */
     private FillBook fillBook;
-
-    /**
-     * Holds trading entries for the current order.
-     */
     private List<TradeEntry> currentTradeEntries;
 
     /**
