@@ -1,5 +1,4 @@
 # Order Matcher
-
 Order Matcher is a simulation of mini-trading platform for executing buy and sell orders at pre-defined prices for
 multiple securities. In the platform you can add and remove securities as well as trade.
 
