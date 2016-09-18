@@ -20,6 +20,7 @@ Java 1.8
 Positive integers are only allowed for volume and price operations!
 
 ## Class Diagram
+![untitled diagram](https://cloud.githubusercontent.com/assets/16080581/18617503/235c3186-7dd1-11e6-8469-551bb1cd20a8.png)
 
 ## Built With
 
