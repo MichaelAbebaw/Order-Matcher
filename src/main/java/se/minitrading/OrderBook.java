@@ -17,9 +17,9 @@ public class OrderBook {
      *  sellPool stores orders in ascending order of price and then order time.
      */
     private String symbol;
+    private FillBook fillBook;
     private TreeMap<Order, Integer> buyPool;
     private TreeMap<Order, Integer> sellPool;
-    private FillBook fillBook;
     private List<TradeEntry> currentTradeEntries;
 
     /**
